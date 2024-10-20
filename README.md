@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MaLr9PVg)
+﻿[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MaLr9PVg)
 # DataLabAssignement2
 
 ## generate.py
@@ -15,4 +15,9 @@ When your code will be test, we will execute:
 
 ## Checkpoints
 Push the minimal amount of models in the folder *checkpoints*.
+[initG.pth](checkpoints/initG.pth) – initial github version
 
+## Test 1
+[G1.pth V1](checkpoints/G.pth) - 400 epochs, lr 0.0001, bs 512
+![Loss](img/v1-loss.jpeg)
+![Samples](img/v1-samples.jpeg)
