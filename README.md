@@ -21,3 +21,8 @@ Push the minimal amount of models in the folder *checkpoints*.
 [G1.pth V1](checkpoints/G.pth) - 400 epochs, lr 0.0001, bs 512
 ![Loss](img/v1-loss.jpeg)
 ![Samples](img/v1-samples.jpeg)
+
+## Test 2
+[G.pth V1](checkpoints/G.pth) - 400 epochs, lr 0.0001, bs 256
+![Loss](img/v2-loss.jpeg)
+![Samples](img/v2-samples.jpeg)
