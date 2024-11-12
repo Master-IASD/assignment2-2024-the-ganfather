@@ -137,7 +137,7 @@ if __name__ == '__main__':
 
     for idx in range(samples.size(0)):
         vutils.save_image(samples[idx].view(1, 28, 28),
-                        f'samples_drs/{idx}.png',
+                        f'samples/{idx}.png',
                         normalize=True)
 
 """
